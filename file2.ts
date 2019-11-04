@@ -9,4 +9,4 @@ declare const c: Container;
 c.classes.Foo;
 
 // Uncommenting this line make 'Find all references' work again
-// export { f1 };
+export { f1 };
