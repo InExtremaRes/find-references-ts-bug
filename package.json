@@ -9,7 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "typescript": "^3.8.0-dev.20191102"
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.9.0-dev.20200223"
   }
 }
